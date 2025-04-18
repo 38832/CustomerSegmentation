@@ -74,8 +74,8 @@ To run the notebooks, ensure you have Python 3.8+ installed. Follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+    git clone https://github.com/38832/CustomerSegmentation.git
+    cd CustomerSegmentation
    ```
 
 2. Install dependencies:
